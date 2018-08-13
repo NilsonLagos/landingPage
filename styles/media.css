@@ -1,0 +1,65 @@
+.page-element .btn,
+				.page-element .contents,
+				.page-element.widget-form form,
+				.page-element.widget-form form input,
+				.page-element.widget-form form textarea,
+				.page-element.widget-form form select,
+				.page-element.widget-form form label
+				{
+																	font-family: Montserrat;
+												font-weight: 400;
+															}
+
+				.page-element.widget-headline .contents h1,
+				.page-element.widget-headline .contents h2,
+				.page-element.widget-headline .contents h3,
+				.page-element.widget-headline .contents h4,
+				.page-element.widget-headline .contents h5,
+				.page-element.widget-headline .contents h6
+				{
+																	font-family: Montserrat;
+												font-weight: 400;
+															}
+
+				[id^=___plusone] { width:51px !important; }
+
+				div.social.lines [id^=___plusone] { width:62px !important; }
+				div.social.lines span[class^=IN-widget] { min-width:70px !important; }
+				div.social.buttons [id^=___plusone] { width:36px !important; }
+				div.social.buttons div[class^=fb-like] { width:58px !important; }
+				div.social.tiles [id^=___plusone] { height:63px !important; margin-top: 2px !important; }
+				div.social.tiles .fb-like iframe { margin-top: 1px !important; }
+
+				.widget-testimonial.style-1 .contents div.testimonial-text
+				{
+					margin-top: 0;
+				}
+
+				@media screen and (max-width: 768px)
+				{
+					.notification > .notification-inner
+					{
+						width: auto;
+						position: fixed;
+						top: 40%;
+						left: 1em !important;
+						right: 1em !important;
+						font-size: 24px;
+					}
+				}
+
+				
+				/* Safari only fix */
+				@media screen and (min-color-index:0) and(-webkit-min-device-pixel-ratio:0) {
+				
+					.widget-form .select-outer select
+					{
+						padding-left: 10px;
+					}
+
+					.widget-form.mobile-form .select-outer select
+					{
+						padding-left: 10px;
+					}
+				}
+
