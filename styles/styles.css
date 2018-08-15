@@ -67,6 +67,15 @@ body
 	top: 227px;
 	z-index: 6;
 }
+
+#element-1320  
+{
+	height: 469px;
+	width: 409px;
+	left: 538px;
+	top: 217px;
+	z-index: 6;
+}
 	
 #element-133  
 {
@@ -87,6 +96,23 @@ body
 }
 
 #element-137 p, #element-137 ul, #element-137 ol, #element-137 h1 
+{
+	font-size: 20px;
+	color: rgb(255, 255, 255);
+	line-height: 28px;
+	text-align: center;
+}
+
+#element-1370  
+{
+	height: 28px;
+	width: 353px;
+	left: 561px;
+	top: 256px;
+	z-index: 8;
+}
+
+#element-1370 p, #element-1370 ul, #element-1370 ol, #element-1370 h1 
 {
 	font-size: 20px;
 	color: rgb(255, 255, 255);
@@ -915,6 +941,23 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
 	line-height: 31px;
 	text-align: center !important;
 }
+
+#element-1370  
+{
+	height: 62px;
+	width: 281px;
+	left: 56px;
+	top: 194px;
+	z-index: 8;
+}
+
+#element-1370 p, #element-1370 ul, #element-1370 ol, #element-1370 h1 
+{
+	font-size: 22px;
+	color: rgb(255, 255, 255);
+	line-height: 31px;
+	text-align: center !important;
+}
 					
 #element-133  
 {
@@ -924,7 +967,16 @@ screen and (max-width: 999px) and (-webkit-min-device-pixel-ratio: 1.5) and ( ma
 	top: 276px;
 	z-index: 7;
 }
-					
+
+#element-1330  
+{
+	height: 235px;
+	width: 253px;
+	left: 71px;
+	top: 276px;
+	z-index: 7;
+}
+
 #element-393  
 {
 	height: 36px;
@@ -1963,5 +2015,267 @@ screen and (min-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5)
 																				font-size: 18px;
 																			}
 																		}
-																	
-																		
+#element-1330 .submit-button
+{
+background-color: #fd710c;
+
+			color: #ffffff;
+		
+		
+	}
+
+#element-1330 .submit-button:active
+{
+	}
+
+#element-1330 .field-checkbox .field-element input[type=checkbox]:checked + label:before
+{
+background-color: #fd710c;
+border-color: #fd710c;
+}
+
+#element-1330 .field-radio .field-element label:after
+{
+border-color: #fd710c;
+}
+
+#element-1330 .input-holder label
+{
+color: #000000;
+}
+
+#element-1330 ::-webkit-input-placeholder
+{ /* WebKit browsers */
+color: #000000	}
+
+#element-1330 :-moz-placeholder
+{ /* Mozilla Firefox 4 to 18 */
+color: #000000;
+}
+
+#element-1330 ::-moz-placeholder
+{ /* Mozilla Firefox 19+ */
+color: #000000;
+}
+
+#element-1330 :-ms-input-placeholder
+{ /* Internet Explorer 10+ */
+color: #000000;
+}
+
+#element-1330 label.error
+{
+color: #C00;
+}
+
+#element-1330 input[type="text"],
+#element-1330 input[type="password"],
+#element-1330 input[type="email"],
+#element-1330 textarea
+{
+color: #98a0a6;
+			background-color: #ffffff;
+
+			border-color: #98a0a6;
+	}
+
+#element-1330 input::-webkit-input-placeholder
+{
+color: #000000;
+}
+
+#element-1330 input:-moz-placeholder
+{
+color: #000000;
+opacity: 1;
+}
+
+#element-1330 input::-moz-placeholder
+{
+color: #000000;
+opacity: 1;
+}
+
+#element-1330 input:-ms-input-placeholder
+{
+color: #000000;
+}
+
+	#element-1330 select
+{
+	color: #98a0a6		}
+
+#element-1330 select[label-position="inside"].pristine
+{
+color: #000000	}
+
+	#element-1330 select option
+{
+					background-color: #ffffff;
+			}
+
+#element-1330 select
+{
+			border-color: #98a0a6;
+					background-color: #ffffff;
+	}
+
+	#element-1330 .dynamic-button:hover
+{
+	background-color: #98a0a6;
+}
+
+			#element-1330 .submit-holder
+{
+	position: relative;
+}
+
+#element-1330 .dynamic-button, #element-1330 .image-button
+{
+	position: absolute;
+	margin: 0;
+
+	top: 199px;
+	left: -11px;
+	width: 358px;
+	height: 74px;
+	box-sizing: content-box;
+	line-height: 30px;
+	font-size: 26px;
+	font-weight: 700;
+					font-family: Roboto;
+								border-radius: 3px;					}
+
+
+
+#element-1330 .submit-button
+{
+	background-color: #fd710c;
+
+				color: #ffffff;
+			
+			
+		}
+
+#element-1330 .submit-button:active
+{
+		}
+
+#element-1330 .field-checkbox .field-element input[type=checkbox]:checked + label:before
+{
+	background-color: #fd710c;
+	border-color: #fd710c;
+}
+
+#element-1330 .field-radio .field-element label:after
+{
+	border-color: #fd710c;
+}
+
+#element-1330 .input-holder label
+{
+	color: #000000;
+}
+
+#element-1330 ::-webkit-input-placeholder
+{ /* WebKit browsers */
+	color: #000000	}
+
+#element-1330 :-moz-placeholder
+{ /* Mozilla Firefox 4 to 18 */
+	color: #000000;
+}
+
+#element-1330 ::-moz-placeholder
+{ /* Mozilla Firefox 19+ */
+	color: #000000;
+}
+
+#element-1330 :-ms-input-placeholder
+{ /* Internet Explorer 10+ */
+	color: #000000;
+}
+
+#element-1330 label.error
+{
+	color: #C00;
+}
+
+#element-1330 input[type="text"],
+#element-1330 input[type="password"],
+#element-1330 input[type="email"],
+#element-1330 textarea
+{
+	color: #98a0a6;
+				background-color: #ffffff;
+	
+				border-color: #98a0a6;
+		}
+
+#element-1330 input::-webkit-input-placeholder
+{
+	color: #000000;
+}
+
+#element-1330 input:-moz-placeholder
+{
+	color: #000000;
+	opacity: 1;
+}
+
+#element-1330 input::-moz-placeholder
+{
+	color: #000000;
+	opacity: 1;
+}
+
+#element-1330 input:-ms-input-placeholder
+{
+	color: #000000;
+}
+
+#element-1330 select
+{
+color: #98a0a6		}
+
+#element-1330 select[label-position="inside"].pristine
+{
+	color: #000000	}
+
+#element-1330 select option
+{
+	background-color: #ffffff;
+}
+
+#element-1330 select
+{
+		border-color: #98a0a6;
+				background-color: #ffffff;
+}
+
+#element-1330 .dynamic-button:hover
+{
+background-color: #98a0a6;
+}
+
+#element-1330 .submit-holder
+{
+position: relative;
+}
+
+#element-1330 .dynamic-button, #element-1330 .image-button
+{
+position: absolute;
+margin: 0;
+
+top: 199px;
+left: -11px;
+width: 358px;
+height: 74px;
+box-sizing: content-box;
+line-height: 30px;
+font-size: 26px;
+font-weight: 700;
+font-family: Roboto;
+border-radius: 3px;					
+}
