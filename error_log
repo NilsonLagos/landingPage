@@ -1,0 +1,1 @@
+[22-Aug-2018 23:39:38 UTC] PHP Fatal error:  Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/ibarajasvargas/public_html/muuktest.com/sendMail.php on line 12
