@@ -1823,7 +1823,7 @@ screen and (min-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5)
 				#popup-2wb47qeziem .popup-inner .modal-content
 				{
 					width: 960px;
-					height: 400px;
+					height: 450px;
 				}
 		
 											#popup-2wb47qeziem
@@ -1854,13 +1854,13 @@ screen and (min-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5)
 						#popup-2wb47qeziem .popup-inner .modal-content
 						{
 							width: 400px;
-							height: 306px;
+							height: 406px;
 						}
 		
 																	#popup-2wb47qeziem 
 		#element-399  
 		{
-			height: 144px;
+			height: 114px;
 			width: 300px;
 			left: 50px;
 			top: 40px;
@@ -1987,7 +1987,7 @@ screen and (min-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5)
 																		position: absolute;
 																		margin: 0;
 															
-																		top: 125px;
+																		/* top: 125px; */
 																		left: 0px;
 																		width: 298px;
 																		height: 52px;
@@ -2007,7 +2007,7 @@ screen and (min-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5)
 																			{
 																				position: absolute;
 																				/* 214*/
-																				top: 174px;
+																				/* top: 174px; */
 																				left: 0px;
 																				width: 298px;
 																				height: 52px;
